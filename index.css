@@ -115,13 +115,13 @@ h2{
     font-family: 'Raleway', sans-serif;
     line-height: 40px;
     letter-spacing: 1.5px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 .skill-blue{
     width: 80%;
     height: 60%;
     position: absolute;
-    top: 175%;
+    top: 165%;
     left: 10%;
     right: 10%;
     background: #01a3a4;
@@ -131,10 +131,10 @@ h2{
     top: 40%;
 }
 .skill-yellow{
-    width: 37%;
+    width: 36%;
     height: 39%;
     position: absolute;
-    top: 159%;
+    top: 148%;
     right: 0;
     background: rgb(255, 234, 167);
     z-index: -1;
